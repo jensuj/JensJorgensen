@@ -1,6 +1,6 @@
 # Site
 repository: jensuj/JensJorgensen
-favicon: images/favicon.ico
+#favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -153,7 +153,10 @@ content:
         caption: 2017-2019
         quote: 
         description: | # this will include new lines to allow paragraphs
-          Computation in Architecture is an international masters that explores the critical consideration of technology as a driver for thinking, forming and realising architecture. With specific focus on digital design, bio-materials and design, advanced modelling, smart sensing and robotic fabrication, the program fosters a dynamic, creative, intellectually rigorous and design-led environment that stimulates critical inquiry into issues of sustainability, site, structure, behavior, materiality and architectural expression.
+          My Master Degree at CITA Studio (now Computation in Architecture) focused on different aspects of sensing and data collection, as means for informing design with real-world data.
+          
+          the Master education gave a solid introduction to parametric design and general computation in architecture. With a strong focus on material experiments, I developed a strong understanding about how to think the material and digital world as one, and not as juxtaposed *real* and *digital* concepts.
+
 
       - layout: right
         title: Royal Danish Academy - Department 11
@@ -162,6 +165,8 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
+          My Bachelor degree at what was then Depatment 11, originally the furniture department, focused on teaching small scale architecture and furniture design together. Working across scales, it gave an understanding of how the creation of shape and the choice of materials are equally important, and interdependant, across scales.
+
 
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
