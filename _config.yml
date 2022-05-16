@@ -128,7 +128,7 @@ content:
           **Tools and Technologies:** VDMX, MadMapper, Rhino3D, Processing, Arduino, Enttec DMX control, Artnet, Adobe PS IN IL AE 
 
       - layout: left
-        border: weak
+        #border: weak
         title: ITU Intermedia Lab
         sub_title: Lab Manager
         caption: apr. 2014 - dec. 2014
@@ -136,7 +136,12 @@ content:
         quote: >
           Intermedia Lab provided a space for prototyping computational artefacts that are bigger than the laptop and the desk - a big space located on the ground floor of the IT University of Copenhagen that functions more as a laboratory than an auditorium.
         description: | # this will include new lines to allow paragraphs
-          **About:** 
+          **About:** As Lab Manager i was resonsible for keeping the intermedia lab in a working condition, so it could be used by students and researchers.
+
+          - Support student and researchers, by consulting and suppying equipment for their projects.
+          - Teach beginner courses in Arduino and basic electronics.
+          - Teach general prototyping.
+          - Continiously develop the lab further, by updating and aquiring new relevant equipment and software. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
