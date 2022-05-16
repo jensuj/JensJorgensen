@@ -118,8 +118,8 @@ content:
         quote: >
           Dark Matters is a interdesciplinary design studio. Creating instalations, motion graphics and lighting design, they operate at the intersection of architecture, scenography, design and art.
         description: | # this will include new lines to allow paragraphs
-          **About:** At Dark Matters I conceptualized, designed and produced visuals, lighting design and instalaltions for concerts and cultural events.
-          I would be resposible for planning and executing technical installations, often one-offs and on a tight budget and timeplan.
+          **About:** At Dark Matters I conceptualized, designed and produced visuals, lighting design and installations for concerts and cultural events.
+          I would be responsible for planning and executing technical installations, often one-offs and on a tight budget and time plan.
 
           - Production Design and Touring of Den Sorte Skole [Indians & Cowboys A/V Tour](https://densorteskole.net/avprojects/Indians%20&%20Cowboys)
           - Concept, Development and Production of [Blackout](http://darkmatters.dk/blackout/)
@@ -138,10 +138,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           **About:** As Lab Manager i was resonsible for keeping the intermedia lab in a working condition, so it could be used by students and researchers.
 
-          - Support student and researchers, by consulting and suppying equipment for their projects.
+          - Support student and researchers, by consulting and supplying equipment for their projects.
           - Teach beginner courses in Arduino and basic electronics.
           - Teach general prototyping.
-          - Continiously develop the lab further, by updating and aquiring new relevant equipment and software. 
+          - Continously develop the lab further, by updating and aquiring new relevant equipment and software. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -162,7 +162,6 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          Description Bachelor 
 
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
