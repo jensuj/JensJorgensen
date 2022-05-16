@@ -96,9 +96,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Control and dimming development for [ELAC (Embroidered Light for Acoustic Ceilings)](https://diffus.dk/work/project-elac/) prototype.
           - Development of sensing, led-drivers and lighting response for [Light.Touch.Matters](https://diffus.dk/work/project-light-touch-matters/) prototype.
+          - Development of sensing and lighting response for [CREATIF](https://diffus.dk/work/project-creatif/) prototype.
 
-          
-          - **Tools and Technologies:**
+          **Tools and Technologies:** Arduino, Teensy, VS Code, PlatformIO, Python, Rhino3D, Grasshopper, Adobe CS 
 
       - layout: left
         title: Dark Matters
