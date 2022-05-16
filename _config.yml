@@ -123,6 +123,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
       - layout: right
         title: Royal Danish Academy - CITAstudio
         sub_title: MA in Architecture
@@ -136,8 +137,9 @@ content:
         title: Royal Danish Academy - Department 11
         sub_title: BA in Architecture
         caption: 2009-2013
-        #quote: >
-        #description: | # this will include new lines to allow paragraphs
+        quote: >
+          Something
+        description: | # this will include new lines to allow paragraphs
           Description of qualification
 
   - title: Projects # Title for the section
