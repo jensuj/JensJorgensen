@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Jens Jørgensen
 #title: Senior Network System Administrator
-email: hello(a)jensu.dk
+email: hello@jensu.dk
 phone: +45 2o669649
 #website: www.github.com/sproogen/resume-theme
 
@@ -49,10 +49,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jens and I'm an architect
+  Hi, my name's Jens and I'm an architect working in computation, simulation and data...
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  I am currently interested in: <mark>Neo4j</mark>
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -69,7 +68,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           **About:** As industrial PhD researcher, I developed a framework for collecting and analysing data on how the built environment is used.
           The projects focus was to get as much information about how architecture is used, back to the architects who plan and design it.
-
 
           - Mapping of existing technologies and methods, in relation to company interests.
           - Development of prototype, capable of detecting objects and and their semantic relationships
@@ -102,7 +100,8 @@ content:
         quote: >
           Diffus Design creates products and projects based on sensor technology merged with traditional materials and craft, with a focus on intelligent textiles, wearable technology.
         description: | # this will include new lines to allow paragraphs
-          **About:** At Diffus Design I worked as a prototype builder, helping the design company realize their designs and ideas. Working together with cutting edge industrial R&D and academic researchers alike, the prototypes involved integrating multiple technologies, materials and design paradigms.
+          **About:** At Diffus Design I worked as a prototype builder, helping the design company realize their designs and ideas. 
+          Working together with cutting edge industrial R&D and academic researchers alike, the prototypes involved integrating multiple technologies, materials and design paradigms.
 
           - Control and dimming development for [ELAC (Embroidered Light for Acoustic Ceilings)](https://diffus.dk/work/project-elac/) prototype.
           - Development of sensing, led-drivers and lighting response for [Light.Touch.Matters](https://diffus.dk/work/project-light-touch-matters/) prototype.
@@ -119,9 +118,14 @@ content:
         quote: >
           Dark Matters is a interdesciplinary design studio. Creating instalations, motion graphics and lighting design, they operate at the intersection of architecture, scenography, design and art.
         description: | # this will include new lines to allow paragraphs
-          **About:**
+          **About:** At Dark Matters I conceptualized, designed and produced visuals, lighting design and instalaltions for concerts and cultural events.
+          I would be resposible for planning and executing technical installations, often one-offs and on a tight budget and timeplan.
+
+          - Production Design and Touring of Den Sorte Skole [Indians & Cowboys A/V Tour](https://densorteskole.net/avprojects/Indians%20&%20Cowboys)
+          - Concept, Development and Production of [Blackout](http://darkmatters.dk/blackout/)
+          - Design and Production of [At Home with Hammershøi - Ordrupgaard Museum](http://darkmatters.dk/hammershoi/)
           
-          **Tools and Technologies:**
+          **Tools and Technologies:** VDMX, MadMapper, Rhino3D, Processing, Arduino, Enttec DMX control, Artnet, Adobe PS IN IL AE 
 
       - layout: left
         border: weak
@@ -130,9 +134,9 @@ content:
         caption: apr. 2014 - dec. 2014
         link: www.itu.dk
         quote: >
-          Short description of the company (optional)
+          Intermedia Lab provided a space for prototyping computational artefacts that are bigger than the laptop and the desk - a big space located on the ground floor of the IT University of Copenhagen that functions more as a laboratory than an auditorium.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          **About:** 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -151,9 +155,9 @@ content:
         sub_title: BA in Architecture
         caption: 2009-2013
         quote: >
-          Something
+          
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Description Bachelor 
 
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
