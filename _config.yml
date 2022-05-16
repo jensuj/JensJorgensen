@@ -32,9 +32,9 @@ linkedin_username: jensuj
 
 # Additional icon links
 additional_links:
-#- title: itsgoingto.be
+#- title: 
 #  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+#  url: 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jens and I'm a ...
+  Hi, my name's Jens and I'm an architect
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -65,11 +65,15 @@ content:
         caption: apr. 2020 - apr. 2022
         link: www.3xn.dk
         quote: >
-          **About:** Research and Development of technologies for conducting occupancy surveys and analysis,, using computer vision and graph databases.
+          Research and Development of technologies for conducting occupancy surveys and analysis,, using computer vision and graph databases.
         description: | # this will include new lines to allow paragraphs
+          **About:** As industrial PhD researcher, I developed a framework for collecting and analysing data on how the built environment is used.
+          The projects focus was to get as much information about how architecture is used, back to the architects who plan and design it.
+
+
           - Mapping of existing technologies and methods, in relation to company interests.
           - Development of prototype, capable of detecting objects and and their semantic relationships
-          - Development of graph database for storage and analysis of query results.
+          - Development of graph database in Neo4j for storage and analysis of query results.
           - Internal consultancy, on data driven design and use of sensors.
 
           **Tools and Technologies:** Nvidia Jetson, Kinect Azure, Xovis, Ubiqisense, Neo4j + Dash & Bloom, Rhino3D, Grasshopper, PyTorch Python, Pandas, Docker, VS devcontainer, Pedsim Pro
@@ -81,8 +85,9 @@ content:
         caption: sep. 2019 - apr. 2020
         link: www.3xn.dk
         quote: >
-          **About:** GXN is a research and development consultancy, working with behavior and sustainability in the built environment. They function as RnD for 3XN Architects.
+          GXN is a research and development consultancy, working with behavior and sustainability in the built environment. They function as RnD for 3XN Architects.
         description: | # this will include new lines to allow paragraphs
+          **About:** 
           -   Supporting design processes with daylight, climate and pedestrian simulations.
           -   Developing prototype for building sensor network and dashboards.
 
