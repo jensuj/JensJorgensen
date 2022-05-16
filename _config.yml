@@ -94,7 +94,9 @@ content:
         quote: >
           Diffus Design creates products and projects based on sensor technology merged with traditional materials and craft, with a focus on intelligent textiles, wearable technology.
         description: | # this will include new lines to allow paragraphs
-          - Prototype development for 
+          - Control and dimming development for [ELAC (Embroidered Light for Acoustic Ceilings)](https://diffus.dk/work/project-elac/) prototype.
+          - Development of sensing, led-drivers and lighting response for [Light.Touch.Matters](https://diffus.dk/work/project-light-touch-matters/) prototype.
+
           
           - **Tools and Technologies:**
 
