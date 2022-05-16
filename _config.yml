@@ -65,7 +65,7 @@ content:
         caption: apr. 2020 - apr. 2022
         link: www.3xn.dk
         quote: >
-          Research and Development of technologies for conducting occupancy surveys and analysis,, using computer vision and graph databases.
+          **About:** Research and Development of technologies for conducting occupancy surveys and analysis,, using computer vision and graph databases.
         description: | # this will include new lines to allow paragraphs
           - Mapping of existing technologies and methods, in relation to company interests.
           - Development of prototype, capable of detecting objects and and their semantic relationships
@@ -81,7 +81,7 @@ content:
         caption: sep. 2019 - apr. 2020
         link: www.3xn.dk
         quote: >
-          GXN is a research and development consultancy, working with behavior and sustainability in the built environment. They function as RnD for 3XN Architects.
+          **About:** GXN is a research and development consultancy, working with behavior and sustainability in the built environment. They function as RnD for 3XN Architects.
         description: | # this will include new lines to allow paragraphs
           -   Supporting design processes with daylight, climate and pedestrian simulations.
           -   Developing prototype for building sensor network and dashboards.
@@ -114,7 +114,7 @@ content:
         quote: >
           Dark Matters is a interdesciplinary design studio. Creating instalations, motion graphics and lighting design, they operate at the intersection of architecture, scenography, design and art.
         description: | # this will include new lines to allow paragraphs
-          
+          **About:**
           
           **Tools and Technologies:**
 
