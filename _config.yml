@@ -71,7 +71,7 @@ content:
           - Development of graph database for storage and analysis of query results.
           - Internal consultancy, on data driven design and use of sensors.
 
-          - **Tools and Technologies:** Nvidia Jetson, Kinect Azure, Xovis, Ubiqisense, Neo4j + Dash & Bloom, Rhino3D, Grasshopper, PyTorch Python, Pandas, Docker, VS devcontainer, Pedsim Pro
+          **Tools and Technologies:** Nvidia Jetson, Kinect Azure, Xovis, Ubiqisense, Neo4j + Dash & Bloom, Rhino3D, Grasshopper, PyTorch Python, Pandas, Docker, VS devcontainer, Pedsim Pro
 
       - layout: left
         title: 3XN/GXN
@@ -84,7 +84,7 @@ content:
           -   Supporting design processes with daylight, climate and pedestrian simulations.
           -   Developing prototype for building sensor network and dashboards.
 
-          -   **Tools and Technologies:** Rhino3D, Grasshopper, Climate-Studio, Diva, Ladybug/Honeybee, PedSim Pro, Pycom, Influx Data, Grafana   
+          **Tools and Technologies:** Rhino3D, Grasshopper, Climate-Studio, Diva, Ladybug/Honeybee, PedSim Pro, Pycom, Influx Data, Grafana   
 
       - layout: left
         title: Diffus Design
@@ -94,6 +94,8 @@ content:
         quote: >
           Diffus Design creates products and projects based on sensor technology merged with traditional materials and craft, with a focus on intelligent textiles, wearable technology.
         description: | # this will include new lines to allow paragraphs
+        **About**: At Diffus Design I worked as a prototype builder, helping the design company realize their designs and ideas. Working together with cutting edge industrial R&D and academic researchers alike, the prototypes involved integrating multiple technologies, materials and design paradigms.
+
           - Control and dimming development for [ELAC (Embroidered Light for Acoustic Ceilings)](https://diffus.dk/work/project-elac/) prototype.
           - Development of sensing, led-drivers and lighting response for [Light.Touch.Matters](https://diffus.dk/work/project-light-touch-matters/) prototype.
           - Development of sensing and lighting response for [CREATIF](https://diffus.dk/work/project-creatif/) prototype.
@@ -106,11 +108,11 @@ content:
         caption: mar. 2015 - mar. 2016
         link: www.darkmatters.dk
         quote: >
-          Short description of the company (optional)
+          Dark Matters is a interdesciplinary design studio. Creating instalations, motion graphics and lighting design, they operate at the intersection of architecture, scenography, design and art.
         description: | # this will include new lines to allow paragraphs
           
           
-          - **Tools and Technologies:**
+          **Tools and Technologies:**
 
       - layout: left
         title: ITU Intermedia Lab
